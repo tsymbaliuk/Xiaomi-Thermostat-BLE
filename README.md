@@ -1,5 +1,5 @@
 # Xiaomi-Thermostat-BLE
-Code for Raspberry Pi that parses BLE-packages from Xiaomi Thermostat and produces data in JSON format to output. Doesn't establish any connection, works completelly passive, so the battery life remains the same.
+Code for Raspberry Pi that parses BLE-packages from Xiaomi Thermostat and produces data in JSON format to output. Doesn't establish any connection, works completelly passive, so the battery life remains the same. Works with both generations of sensors (Xiaomi and ClearGrass).
 
 <p>Dependencies installation:<br />
 sudo apt-get update<br />
